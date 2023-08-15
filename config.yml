@@ -54,3 +54,4 @@ sources:
   github: connectors.sources.github:GitHubDataSource
   salesforce: connectors.sources.salesforce:SalesforceDataSource
   slack: connectors.sources.slack:SlackDataSource
+  onedrive: connectors.sources.onedrive:OneDriveDataSource
